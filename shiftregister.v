@@ -18,4 +18,4 @@ module shiftregister(s1,d,clk,s0,q);
   assign q[1]=d[0];
   assign q[0]=s0;
 
-endmodul
+endmodule
